@@ -1,24 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuzgeHorror.Plugins", "RuzgeHorror.Plugins.csproj", "{B787D448-9EFC-F5AC-7567-EB033FEF89EF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuzgeHorror.Editor.Plugins", "RuzgeHorror.Editor.Plugins.csproj", "{D5E2F25B-E6D7-E5BA-37C9-172958096FAA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B787D448-9EFC-F5AC-7567-EB033FEF89EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B787D448-9EFC-F5AC-7567-EB033FEF89EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B787D448-9EFC-F5AC-7567-EB033FEF89EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B787D448-9EFC-F5AC-7567-EB033FEF89EF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D5E2F25B-E6D7-E5BA-37C9-172958096FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D5E2F25B-E6D7-E5BA-37C9-172958096FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D5E2F25B-E6D7-E5BA-37C9-172958096FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D5E2F25B-E6D7-E5BA-37C9-172958096FAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
